@@ -1,0 +1,62 @@
+unit UnitEnvioSMS;
+
+interface
+
+uses System.Classes, System.JSON;
+
+type
+
+  TEnvioSMS = class
+
+  private
+    nroCelular : String;
+    txtMsg : String;
+
+  public
+    function getNroCelular : String ;
+    function getTxtMsg : String ;
+
+    procedure setNroCelular (fValor : String);
+    procedure setTxtMsg (fValor : String);
+
+    procedure montarJson (nrTelefone, txtMsg : String);
+
+  end;
+
+implementation
+
+function TEnvioSMS.getNroCelular: String;
+begin
+  result := nroCelular;
+end;
+
+function TEnvioSMS.getTxtMsg: string;
+begin
+  result := txtMsg;
+end;
+
+procedure TEnvioSMS.setNroCelular(fValor: string);
+begin
+  nroCelular := fValor;
+end;
+
+procedure TEnvioSMS.setTxtMsg(fValor: string);
+begin
+  txtMsg := fValor;
+end;
+
+
+procedure TEnvioSMS.montarJson(nrTelefone: string; txtMsg: string);
+var
+  jsonObjEnvio : TJSONObject;
+begin
+
+    jsonObjEnvio:= TJSONObject.Create;
+    jsonObjEnvio.AddPair('nome' , 'Saulo');
+    jsonObjEnvio.AddPair('cpf' , '000.000.000-01');
+
+
+
+end;
+
+end.

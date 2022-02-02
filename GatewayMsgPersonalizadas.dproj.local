@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/02 15:20:53.000.957,=C:\Users\Saulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 15:22:21.000.491,C:\Users\Saulo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 15:22:21.000.491,C:\Users\Saulo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\Unit1.dfm</Transaction>
+    <Transaction>2022/02/02 15:22:38.000.575,C:\Users\Saulo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\GatewayMsgPersonalizadas.dproj</Transaction>
+    <Transaction>2022/02/02 15:50:48.061,C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\UnitPrincipalFormEnvio.pas=C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 15:50:48.061,C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\UnitPrincipalFormEnvio.dfm=C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\Unit1.dfm</Transaction>
+    <Transaction>2022/02/02 15:52:36.431,=C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\Unit2.pas</Transaction>
+    <Transaction>2022/02/02 15:52:52.960,C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\UnitEnvioSMS.pas=C:\Users\Saulo\Desktop\TreinamentoDelphiSaulo\Bacalhau_GatewayMsgPersonalizadas\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
